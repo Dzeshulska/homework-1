@@ -1,10 +1,10 @@
 user_name = input("enter your name")
-
-print(user_name.lower().capitalize())
+print(user_name .lower() .capitalize())
 
 
 sur_name = input("Enter your sur_name")
-print(sur_name) 
+L = " " .join(sur_name)
+print(L)
 
 
 user_age = input("Enter how old are you?")
